@@ -1,5 +1,7 @@
 # README
 
+Tutorial URL: https://www.devwalks.com/lets-build-instagram-in-rails-part-1/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
